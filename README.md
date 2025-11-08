@@ -9,9 +9,7 @@
 5. [Installation](#installation)
 6. [Important Notes](#important-notes)
 7. [Stripe Test Cards](#stripe-test-cards)
-8. [Back Office](#back-office)
-9. [Contributing](#contributing)
-10. [License](#license)
+8. [Contributing](#contributing)
 
 ## Overview
 
@@ -34,28 +32,28 @@ This app is built using **Next.js** for the front-end and **Supabase** for the d
 ## Screenshots
 
 1. **Homepage**  
-   ![Homepage Screenshot](https://raw.githubusercontent.com/OthmaneNissoukin/nextjs-hotel-booking/main/screenshots/homepage.png)
+   ![Homepage Screenshot](./screenshots/homepage.png)
 
 2. **Room Listing**  
-   ![Room Listing Screenshot](https://raw.githubusercontent.com/OthmaneNissoukin/nextjs-hotel-booking/main/screenshots/rooms.png)
+   ![Room Listing Screenshot](./screenshots/rooms.png)
 
 3. **Room Details**  
-   ![Room Details Screenshot](https://raw.githubusercontent.com/OthmaneNissoukin/nextjs-hotel-booking/main/screenshots/details.png)
+   ![Room Details Screenshot](./screenshots/details.png)
 
 4. **Checkout Page**  
-   ![Checkout Screenshot](https://raw.githubusercontent.com/OthmaneNissoukin/nextjs-hotel-booking/main/screenshots/checkout.png)
+   ![Checkout Screenshot](./screenshots/checkout.png)
 
 5. **Reservation Update Page**  
-   ![Reservation Update Screenshot](https://raw.githubusercontent.com/OthmaneNissoukin/nextjs-hotel-booking/main/screenshots/reservation-update.png)
+   ![Reservation Update Screenshot](./screenshots/reservation-update.png)
 
 6. **Sign In Page**  
-   ![Sign In Screenshot](https://raw.githubusercontent.com/OthmaneNissoukin/nextjs-hotel-booking/main/screenshots/login.png)
+   ![Sign In Screenshot](./screenshots/login.png)
 
 7. **Booking Overview**  
-   ![Booking Overview Screenshot](https://raw.githubusercontent.com/OthmaneNissoukin/nextjs-hotel-booking/main/screenshots/booking-overview.png)
+   ![Booking Overview Screenshot](./screenshots/booking-overview.png)
 
 8. **Supabase Schema**  
-   ![Supabase Schema Screenshot](https://raw.githubusercontent.com/OthmaneNissoukin/nextjs-hotel-booking/main/screenshots/supabase-schema.png)
+   ![Supabase Schema Screenshot](./screenshots/supabase-schema.png)
 
 ## Technologies Used
 
@@ -82,7 +80,7 @@ This app is built using **Next.js** for the front-end and **Supabase** for the d
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/OthmaneNissoukin/nextjs-hotel-booking.git
+   git clone https://github.com/YOUR-USERNAME/nextjs-hotel-booking.git
    cd nextjs-hotel-booking
    ```
 
@@ -216,15 +214,6 @@ Use this card for testing 3D Secure scenarios.
 | ------------------- | --------- | --------------- | --- | -------------------------------- |
 | 4000 0035 0000 0010 | Visa      | Any future date | Any | Successful charge with 3D Secure |
 
-## Back Office
-
-- **Live Version**: [https://nextjs-hotel-booking-back-office.vercel.app/](https://nextjs-hotel-booking-back-office.vercel.app/)
-- **Repo**: [https://github.com/OthmaneNissoukin/nextjs-hotel-booking-back-office](https://github.com/OthmaneNissoukin/nextjs-hotel-booking-back-office)
-
 ## Contributing
 
 Feel free to submit issues or pull requests. Contributions, suggestions, and improvements are always welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./blob/main/Licence.txt) file for details.
